@@ -1,4 +1,4 @@
-Total bonus : +14 points
+Total bonus : +12 points
 
 20191005    math sa2                (69 marks)          : +1
 20191006    swim cer                (stage 2)           : +3
@@ -12,9 +12,10 @@ Total bonus : +14 points
 20191010    en spell                (9/10)              : +1
 20191010    cn listen               (9/10)              : +1
 20191012    mu piano                (good)              : +3
-
+20191012    return money                                : +2
 
 
 
 
 20191009    en sa2                  (44/100)            : -2
+20191012    buy sprite                                  : -4
