@@ -1,4 +1,4 @@
-Total bonus : +9 points
+Total bonus : +11 points
 
 20191005    math sa2                (69 marks)          : +1
 20191006    swim cer                (stage 2)           : +3
@@ -9,6 +9,9 @@ Total bonus : +9 points
 20191009    cn listen               (9/10)              : +1
 20191009    en spell                (6/10)              : +1
 20191009    en practise             (40/50)             : +1
+20191010    en spell                (9/10)              : +1
+20191010    cn listen               (9/10)              : +1
+
 
 
 
