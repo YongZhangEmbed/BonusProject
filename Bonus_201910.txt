@@ -1,4 +1,4 @@
-Total bonus : +10 points
+Total bonus : +13 points
 
 20191005    math sa2                (69 marks)          : +1
 20191006    swim cer                (stage 2)           : +3
@@ -15,6 +15,7 @@ Total bonus : +10 points
 20191012    return money                                : +2
 20191013    math practice           (66/100)            : +1
 20191015    english practice        (35.5/50)           : +1
+20191016    science practice        (68.5/80)           : +3
 
 
 
