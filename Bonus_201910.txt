@@ -31,6 +31,6 @@ Total bonus : +15 points
 
 
 20191009    en sa2                  (44/100)            : -2
-20191012    buy sprite                                  : -4
-20191015    pisa                    (copayment half)    : -4
-20191020    mcdonalds               (eat)               : -9
+20191012    buy sprite              (50% copayment)     : -4
+20191015    pisa                    (50% copayment)     : -4
+20191020    mcdonalds               (100% payment)      : -9
