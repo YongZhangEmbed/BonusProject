@@ -26,6 +26,8 @@ Total bonus : +16 points
 20191025    math mock               (72/100)            : +1
 20191026    piano tuition           (very good)         : +3
 20191028    return money                                : +1
+20191029    math practice           (75/100)            : +1
+
 
 
 
@@ -35,3 +37,4 @@ Total bonus : +16 points
 20191012    buy sprite              (50% copayment)     : -4
 20191015    pisa                    (50% copayment)     : -4
 20191020    mcdonalds               (100% payment)      : -9
+20191030    buy drink (core payment)                    : -1
