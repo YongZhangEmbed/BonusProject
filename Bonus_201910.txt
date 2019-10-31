@@ -1,4 +1,4 @@
-Total bonus : +16 points
+Total bonus : +22 points
 
 20191005    math sa2                (69 marks)          : +1
 20191006    swim cer                (stage 2)           : +3
@@ -27,6 +27,9 @@ Total bonus : +16 points
 20191026    piano tuition           (very good)         : +3
 20191028    return money                                : +1
 20191029    math practice           (75/100)            : +1
+20191030    sa2 cl exam             (82/100)            : +2
+20191031    sa2 science exam        (72.5/100)          : +2
+20191031    sa2 english exam        (62/100)            : +2
 
 
 
