@@ -1,4 +1,4 @@
-Total bonus : +19 points
+Total bonus : +23 points
 
 Bonus from last month : 8 points
 
@@ -9,6 +9,8 @@ Bonus from last month : 8 points
 20191223    piano practice              (excellent)                    points : +3
 20191223    english grammar practice (3 full marks)                    points : +3
 20191225    english grammar practice (2 full marks)                    points : +2
+20191229    english grammar practice (1 full marks)                    points : +1
+20191230    piano practice              (excellent)                    points : +3
 
 
 
