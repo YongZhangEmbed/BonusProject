@@ -1,2 +1,6 @@
-20200110    +1      completed      老鼠记者7
-20200111    +0.5    completed      the Bad guys 7
+Totol points : 1.5
+
+Have red books
+
+20200110    points : +1      老鼠记者7
+20200111    points : +0.5    the Bad guys 7
