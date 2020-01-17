@@ -1,5 +1,5 @@
 
-Total bonus : +37 points
+Total bonus : +40 points
 
 Bonus from last month : 23 points
 
@@ -7,3 +7,5 @@ Bonus from last month : 23 points
 20200105    english grammar practice (2 full marks)                    points : +2
 20200106    english grammar practice (1 full marks)                    points : +1
 20200107    chinese class leader                                       points : +10
+20200116    english grammar practice (2 full marks)                    points : +2
+20200117    chinese spelling          (98/100)                         points : +1
