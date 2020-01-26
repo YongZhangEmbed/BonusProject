@@ -1,5 +1,5 @@
 
-Total bonus : +30 points
+Total bonus : +20 points
 
 Bonus from last month : 23 points
 
@@ -10,3 +10,4 @@ Bonus from last month : 23 points
 20200116    english grammar practice (2 full marks)                    points : +2
 20200117    chinese spelling          (98/100)                         points : +1
 20200118    was criticised by piano teacher                            points : -10
+20200125    mcdonald                                                   points : -10
