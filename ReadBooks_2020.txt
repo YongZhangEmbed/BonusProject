@@ -1,4 +1,4 @@
-Totol points : 3.5
+Totol points : 4.5
 
 Have red books
 
@@ -6,3 +6,4 @@ Have red books
 20200111    points : +0.5    the Bad guys 7
 20200114    points : +1      weird school 3
 20200118    points : +1      weird school 4
+20200126    points : +1      weird school 5
