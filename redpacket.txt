@@ -1,4 +1,5 @@
 
-Total money : $160
+Total money : $192
 
 20200128    received red packet     $160
+20200202    received red packet     $32
