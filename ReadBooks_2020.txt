@@ -1,4 +1,4 @@
-Totol points : 4.5
+Totol points : 7.5
 
 Have red books
 
@@ -7,4 +7,4 @@ Have red books
 20200114    points : +1      weird school 3
 20200118    points : +1      weird school 4
 20200126    points : +1      weird school 5
-20200209    points : +3      completed JS
+20200209    points : +3      completed GS
